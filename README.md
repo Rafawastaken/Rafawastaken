@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafa</h1>
 <h3 align="center">Python webdeveloper enthusiast</h3>
 
-- 🔭 I’m currently working on [many](ecommerces)
+- 🔭 I’m currently working on **many webapps (ecomerces, osint tools and random stuff I find interesting)**
 
-- 🌱 I’m currently learning **react, py-script**
+- 🌱 I’m currently learning **react, py-script and nodejs**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Rafawastaken](https://github.com/Rafawastaken)
 
 - 💬 Ask me about **flask and webscraping**
 
