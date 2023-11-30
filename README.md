@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **many webapps (ecomerces, osint tools and random stuff I find interesting)**
 
-- 🌱 I’m currently learning **next 13**
+- 🌱 I’m currently learning **React/Next*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rafawastaken](https://github.com/Rafawastaken)
 
