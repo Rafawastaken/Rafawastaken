@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafa</h1>
-<h3 align="center">Python webdeveloper enthusiast</h3>
-
-- 🔭 I’m currently working on **many webapps (ecomerces, osint tools and random stuff I find interesting)**
+<h3 align="center">Webdev enthusiast</h3>
 
 - 🌱 I’m currently learning **React/Next**
 
