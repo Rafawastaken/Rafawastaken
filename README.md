@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rafawastaken](https://github.com/Rafawastaken)
 
-- 💬 Ask me about **flask and webscraping**
+- 💬 Ask me about **Arduino, Flask, Django, Scrapers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
