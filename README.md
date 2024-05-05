@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rafa</h1>
 <h3 align="center">Webdev enthusiast</h3>
 
-- 🌱 I’m currently learning **React/Next**
+- 🌱 Currenly working  on massive backlog of ideas
+
+- 🏢 Full Time dev at Kontrolsat
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rafawastaken](https://github.com/Rafawastaken)
 
-- 💬 Ask me about **Arduino, Flask, Django, Scrapers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
