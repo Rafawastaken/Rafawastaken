@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a massive backlog of ideas**
 
-- 🌱 I’m currently learning **Java and Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rafawastaken](https://github.com/rafawastaken)
 
