@@ -14,10 +14,10 @@
 
 ### 🚀 What I Do
 
-- 🐹 **High-Performance Backend:** Developing concurrent, low-latency microservices and robust APIs with **Go (Golang)** and **Python**.
+- 🐹 **High-Performance Backend:** Developing concurrent, low-latency microservices and robust APIs with **Go (Golang)** and **Python (FastAPI)**, leveraging **Vertical Slice Architecture** and **CQRS (lite)** patterns.
 - ⚡ **Event-Driven & Streaming:** Designing asynchronous event pipelines, notification microservices, and background worker jobs with **Apache Kafka**, Webhooks, and Message Queues.
-- 🏢 **Enterprise Integrations & Automation:** Architecting resilient sync engines connecting enterprise ERPs (Sage, Odoo), supplier feeds, dropshipping automation, and large-scale retail platforms.
-- 📊 **Real-Time Data & Analytics:** Building real-time analytics engines using **DuckDB**, PostgreSQL, and columnar formats for sub-second data processing.
+- 🏢 **Enterprise Integrations & Automation:** Architecting resilient sync engines connecting enterprise ERPs, supplier catalog feeds, automated dropshipping routing, and large-scale retail platforms.
+- 📊 **Real-Time Data & Analytics:** Building analytical engines using **DuckDB**, PostgreSQL, and columnar data formats for sub-second business intelligence.
 
 ---
 
@@ -26,10 +26,11 @@
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | **Go (Golang)**, **Python**, **PHP 8**, TypeScript / JavaScript, SQL |
+| **Architecture & Patterns** | **Vertical Slice Architecture**, **CQRS (Lite)**, **Clean Architecture**, Event-Driven |
 | **Streaming & Messaging** | Apache Kafka, Event Streams, Background Workers, Webhooks |
 | **Databases & Storage** | PostgreSQL (pgx), DuckDB (OLAP), MySQL, Redis |
-| **Frameworks & Architecture** | Chi, FastAPI, net/http, Clean Architecture, REST APIs |
-| **DevOps & Infra** | Docker, Docker Compose, Linux, Git, CI/CD |
+| **Frameworks & Tooling** | Chi, FastAPI, `net/http`, Streamlit, Docker |
+| **DevOps & Infra** | Docker Compose, Linux, Git, CI/CD, Tracing & Logging |
 
 ---
 
