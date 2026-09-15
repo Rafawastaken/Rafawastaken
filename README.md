@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer — Backend & Distributed Systems</h3>
 
 <p align="center">
-  Building high-throughput, event-driven architectures, e-commerce platforms, and scalable data pipelines.
+  Building high-throughput backend services, event-driven architectures, and enterprise integration platforms.
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ### 🚀 What I Do
 
-- 🐹 **High-Performance Backend:** Developing concurrent, low-latency microservices with **Go (Golang)** and **Python**.
-- ⚡ **Event-Driven Architectures:** Designing asynchronous streaming pipelines with **Apache Kafka**, Webhooks, and Event-Sourcing patterns.
-- 🛒 **E-Commerce & ERP Systems:** Architecting resilient integrations across enterprise ERPs (**Odoo**), e-commerce engines (**PrestaShop**), and inventory streams.
-- 🦆 **Real-Time Data & OLAP:** Leveraging **DuckDB** and columnar formats for instant, sub-second business intelligence and analytics.
+- 🐹 **High-Performance Backend:** Developing concurrent, low-latency microservices and robust APIs with **Go (Golang)** and **Python**.
+- ⚡ **Event-Driven & Streaming:** Designing asynchronous event pipelines, notification microservices, and background worker jobs with **Apache Kafka**, Webhooks, and Message Queues.
+- 🏢 **Enterprise Integrations & Automation:** Architecting resilient sync engines connecting enterprise ERPs (Sage, Odoo), supplier feeds, dropshipping automation, and large-scale retail platforms.
+- 📊 **Real-Time Data & Analytics:** Building real-time analytics engines using **DuckDB**, PostgreSQL, and columnar formats for sub-second data processing.
 
 ---
 
@@ -25,11 +25,11 @@
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | **Go (Golang)**, **Python**, **PHP 8**, TypeScript, SQL |
-| **Streaming & Messaging** | Apache Kafka, Event Streams, Webhooks |
-| **Databases & Analytics** | DuckDB (OLAP), PostgreSQL, MySQL, Redis |
-| **Frameworks & Routers** | Chi, `net/http`, FastAPI, Streamlit, PrestaShop Core |
-| **DevOps & Cloud** | Docker, Docker Compose, Linux, Git, CI/CD |
+| **Languages** | **Go (Golang)**, **Python**, **PHP 8**, TypeScript / JavaScript, SQL |
+| **Streaming & Messaging** | Apache Kafka, Event Streams, Background Workers, Webhooks |
+| **Databases & Storage** | PostgreSQL (pgx), DuckDB (OLAP), MySQL, Redis |
+| **Frameworks & Architecture** | Chi, FastAPI, net/http, Clean Architecture, REST APIs |
+| **DevOps & Infra** | Docker, Docker Compose, Linux, Git, CI/CD |
 
 ---
 
@@ -37,8 +37,8 @@
 
 * **[DuckStream](https://github.com/Rafawastaken/quack-quack)** — Real-time event-driven e-commerce analytics pipeline (< 600µs Go ingestion + DuckDB OLAP + Streamlit).
 * **[microservices-kafka](https://github.com/Rafawastaken/microservices-kafka)** — Event-driven microservices architecture powered by Apache Kafka.
-* **[trolha-caudal-bi](https://github.com/Rafawastaken/trolha-caudal-business-intelligence)** — Production analytics and Business Intelligence platform for e-commerce metrics.
-* **[odoo-connector](https://github.com/Rafawastaken/odoo-connector)** — High-reliability inventory and order synchronization between Odoo ERP and PrestaShop.
+* **[trolha-caudal-bi](https://github.com/Rafawastaken/trolha-caudal-business-intelligence)** — Production analytics and Business Intelligence platform for retail metrics.
+* **[odoo-connector](https://github.com/Rafawastaken/odoo-connector)** — High-reliability inventory and transaction synchronization engine for enterprise ERPs.
 
 ---
 
