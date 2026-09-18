@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jrafapimenta@gmail.com"><img src="https://img.shields.io/badge/Email-jrafapimenta%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
+  <a href="mailto:rafael.pimenta.dev@gmail.com"><img src="https://img.shields.io/badge/Email-rafael.pimenta.dev%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Portugal-green?style=flat-square" alt="Portugal"/>
 </p>
 
